@@ -1,6 +1,6 @@
-# React Native Auth UI
+# React Native Chat UI
 
-React Native UI for Signup, Login, Forgot Password, Reset Password , Account Setting and User Profile.
+React Native UI for, Chat List, Contact List alogn with Signup, Login, Forgot Password, Reset Password , Account Setting and User Profile.
 
 ## Preview
 <p align="center">
